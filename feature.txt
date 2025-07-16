@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 feature fix
-=======
-feature f1 conflict
->>>>>>> f1
