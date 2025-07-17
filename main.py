@@ -1,2 +1,2 @@
 def main():
-    print("This is the main function.")
+    print("This is the f2 function.")
