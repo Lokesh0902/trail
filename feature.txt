@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-feature 2
-=======
-f1
->>>>>>> feature-1
+f2
+
